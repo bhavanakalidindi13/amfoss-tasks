@@ -1,4 +1,4 @@
-##Problem Faced
+## Problem Faced
 In this task the problem that i faced was that the code was working in my computer but when i run it on the website i got EOF error.
 I also got a runtime error -'NZEC' which is 'non zero exit code'.
 
