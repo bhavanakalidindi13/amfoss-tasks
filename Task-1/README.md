@@ -1,1 +1,0 @@
-After following the guidelines provided the task was easy to complete.
