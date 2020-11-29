@@ -1,0 +1,33 @@
+## MINIMUM NINJA SUM
+#### Code
+
+I got terminated to due to time out, i found out that i should use a different approach instead of using many loops but i didn't get an idea on what should be done.
+The code below is the one which got timed out(got 40 points).
+
+n=int(input())
+for i in range(0,n):
+    x,y=input().split()
+    k=int(y)
+    n=len(x)
+    min_val=((10**18)*9)+1
+    for j in range(0,n):
+        sub_sum=0
+        if (j+k)<=n:
+            for h in range(0,k):
+                sub_sum=sub_sum+int(x[j+h])
+        else:
+            break
+        if j==0:
+            prev=sub_sum
+        else:
+            if prev<sub_sum:
+                s=sub_sum-prev
+            else:
+                s=prev-sub_sum
+            if s<min_val:
+                min_val=s
+            prev = sub_sum
+    if k>=n:
+        print("-1")
+    else:
+        print(min_val)

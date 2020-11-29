@@ -1,0 +1,20 @@
+## JACK JACK CODES
+#### Code
+I got terminated to due to time out, i found out that i should use a different approach instead of using many loops but i didn't get an idea on what should be done.
+The code below is the one which got timed out(got 70 points).
+
+x=input()
+x=x.split()
+a=int(x[0])
+b=int(x[1])
+y=[int(i) for i in input().split()]
+flag = 0
+for i in y:
+    p = b-i
+    if(p in y):
+        flag = 1
+        break
+if(flag == 1):
+    print("True")
+else:
+    print("False")
