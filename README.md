@@ -10,13 +10,13 @@ This is Bhavana, fresher at Amrita School of Engineering (EAC 2020).
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-00">Task-00</a> | Installing Ubuntu |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-01">Task-01</a> | Star all the amFOSS repositories |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-02">Task-02</a> | Nickname in IRC Freenode |
-| <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-03">Task-03</a> | Hackerrank |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-08">Task-08 </a>| Sir Perceval's Quest |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-11">Task-11 </a>  | Poster |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-12">Task-12 </a> | Codechef |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-14">Task-14 </a>| Bandit |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-15">Task-15 </a>| Project Euler |
 |  |  |
+| <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-03">Task-03</a> | Hackerrank(pending) |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-04">Task-04</a> | Debugging(pending) |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-05">Task-05</a> | Webscraping using Rust(pending) |
 | <a href="https://github.com/bhavanakalidindi13/amfoss-tasks/tree/main/Task-06">Task-06</a> | Geddit(pending) |
