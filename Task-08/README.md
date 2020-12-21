@@ -5,3 +5,5 @@ The only thing is that there were 33 repos in the organisation but i got only 30
 I am not sure why.
 I learnt a lot from it.
 But i definitely didn't go into it too much only the commands which i required.
+
+Now, have added a parameter named "page" in requests, this solved the issue. Now its listing all the 33 repos.
